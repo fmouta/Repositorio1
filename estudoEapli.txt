@@ -1,2 +1,2 @@
-Controlo de versões
+Controlo de versões usando Git
 OpenUP
